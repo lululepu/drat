@@ -1,6 +1,6 @@
 # Discord Bot Tool
 
-![Python version](https://img.shields.io/badge/Python-3.7%2B-blue)
+![Python version](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![Discord.py version](https://img.shields.io/badge/discord.py-1.7.0%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
